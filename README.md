@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-blue)](LICENSE)
 [![Version](https://img.shields.io/badge/version-v3.5-brightgreen)](https://github.com/xhr970209-collab/SecondBrain-YouOnlyUse10Percent)
 
-> **帮你记住一切。帮你看清自己。**
+> **帮你记住一切。帮你保存判断力。**
 >
 > 一个文件夹。30秒启动。任何 AI 都能用。永久免费。
 
